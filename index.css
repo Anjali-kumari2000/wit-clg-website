@@ -1,0 +1,159 @@
+.A{
+    color:#007a23
+
+}
+.b{
+    background-color: white;
+}
+
+.pt{
+    background-image: url(img/img18.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.ct{
+    background-image: url(img/pic30.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.z1{
+    background-image: url(img/img61.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.z2{
+    background-image: url(img/img61.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.z3{
+    background-image: url(img/pic42.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.z4{
+    background-image: url(img/pics2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.z5{
+    background-image: url(img/pic3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+
+.z6{
+    background-image: url(img/pic7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.z7{
+    background-image: url(img/img61.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+
+.z9{
+    background-image: url(img/img62.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+
+
+.wt{
+    background-image: url(img/img6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+
+}
+.wu{
+    background-image: url(img/img7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+.wv{
+    background-image: url(img/img8.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+.ww{
+    background-image: url(img/img9.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+
+ /*:hover .wt{
+    background-image: none;
+    background-color: #007a23;
+}
+*/
+.wb{
+    background-image: url(img/img14.jpg); 
+}
+.pa{
+    
+    text-align: center;
+
+}

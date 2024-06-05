@@ -1,0 +1,50 @@
+.pt{
+    background-image: url(img/img21.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    width: 100%;
+    
+
+}
+
+.pq{
+    background-image: url(img/img25.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    width: 100%;
+    
+
+}
+
+
+.pd{
+    background-image: url(img/pics2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    width: 100%;
+    
+
+}
+.c{
+    width:100%;
+    height:50px;
+    background-color:#000055;
+    line-height:50px;
+    text-align:center;
+    letter-spacing:30px;
+    }
+    .c select{
+        background-color:000055;
+        overflow:auto;
+        color:white;
+        }
+        .c select:hover{
+        background-color:#ee0000;
+        height:50px;
+        }

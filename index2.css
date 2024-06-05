@@ -1,0 +1,111 @@
+.wv{
+    background-image: url(img/img16.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+
+
+.A{
+    color:#007a23
+
+}
+.b{
+    background-color: white;
+}
+
+.pt{
+    background-image: url(img/img28.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    min-height: 300px;
+    width: 100%;
+    
+
+}
+.t2{
+    background-color: rgb(170, 215, 247);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+
+}
+
+
+.wt{
+    background-image: url(img/img6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+
+}
+.wt:hover{
+   
+    color:blue;
+    background: rgb(127, 124, 230);
+
+}
+.wu{
+    background-image: url(img/img7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+.wu:hover{
+    
+    color:blue;
+    background: rgb(168, 153, 204);
+
+}
+.wv{
+    background-image: url(img/img8.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+.wv:hover{
+  
+    color:rgb(0, 225, 255);
+    background: rgb(157, 102, 35);
+    
+
+
+}
+.ww{
+    background-image: url(img/img9.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+   
+}
+.ww:hover{
+    
+    color:blue;
+    background: rgb(140, 137, 187);
+
+}
+ /*:hover .wt{
+    background-image: none;
+    background-color: #007a23;
+}
+*/
+.wb{
+    background-image: url(img/img14.jpg); 
+}
+.pa{
+    
+    text-align: center;
+
+}
